@@ -1,74 +1,29 @@
-## Hi there 👋
-<br clear="both">
+<h1 align="left">Hola 👋, soy Luis Alejandro Ospina</h1>
 
-<h4 align="left">Hi 👋! My name is Luis Alejandro Ospina<br><br>👨‍💻 I'm a Software Development Technician currently in my 6th semester of a Software Engineering degree. 📍 Based in Pereira, Colombia — always learning, building, and exploring new ways to solve problems with code. 💻 I work with JavaScript, Python, SQL, and backend technologies like Node.js and Express. 🧠 I'm passionate about understanding how things work under the hood. I enjoy working with data structures, relational databases, and applying SOLID principles to write clean, scalable code. 🔍 Currently diving deeper into unit testing, software architecture, and agile methodologies like Scrum. 🌐 I'm interested in both frontend and backend development, aiming to become a full stack developer with strong technical foundations. ⚙️ I enjoy technical challenges, clean code, and that satisfying moment when everything finally makes sense. ☕ And yes, coffee is part of the process.</h4>
+**Backend Developer** en formación · Ingeniería de Software (8.º semestre) · Pereira, Colombia 🇨🇴
 
-###
+Me gusta entender cómo funcionan las cosas por debajo: diseñar APIs, modelar bases de datos relacionales y escribir código limpio, mantenible y escalable.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhalejo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hhalejo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🔧 Stack
 
-###
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<br clear="both">
+### 🧠 En lo que me enfoco ahora
+- Arquitectura de software y principios SOLID
+- Pruebas unitarias
+- Diseño de APIs REST y bases de datos relacionales
+- Metodologías ágiles (Scrum)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"  />
-</div>
+### 📌 Proyectos destacados
+- **[Animal Control](https://github.com/tu-usuario/animal-control)**: sistema de administración veterinaria para gestionar [pacientes, propietarios, citas, historiales, pagos]. Backend en **Python** con arquitectura por capas y base de datos **SQL**; interfaz de escritorio con **PyQt6**.
 
 
+### 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/luis-alejandro-ospina-cifuentes) · [Correo](hhalejo@gmail.com)
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hhalejo/hhalejo/output/snake.svg" alt="Snake animation" />
-
-###
-<!--
-**hhalejo/hhalejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Y sí, el café es parte del proceso.
