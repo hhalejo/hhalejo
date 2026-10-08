@@ -20,8 +20,7 @@ Me gusta entender cómo funcionan las cosas por debajo: diseñar APIs, modelar b
 - Metodologías ágiles (Scrum)
 
 ### 📌 Proyectos destacados
-- **[Animal Control](https://github.com/tu-usuario/animal-control)**: sistema de administración veterinaria para gestionar [pacientes, propietarios, citas, historiales, pagos]. Backend en **Python** con arquitectura por capas y base de datos **SQL**; interfaz de escritorio con **PyQt6**.
-
+- **[Animal Control](https://github.com/tu-usuario/animal-control)**: Sistema de gestión de clínica veterinaria de escritorio construido con **Python + PyQt6 + MySQL**. App multi-rol (Veterinario, Recepcionista, Administrador) con módulos para consultas, historia clínica, inventario, citas y reportes. 
 
 ### 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/luis-alejandro-ospina-cifuentes) · [Correo](hhalejo@gmail.com)
