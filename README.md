@@ -15,7 +15,7 @@ Me gusta entender cómo funcionan las cosas por debajo: diseñar APIs, modelar b
 
 ### 🧠 En lo que me enfoco     
 - Contenedorización y entornos de desarrollo con Docker
-- Diseño de APIs REST y bases de datos relacionales
+- Diseño de APIs REST y bases de datos relacionales y no relacionales
 - Administración de sistemas Linux y fundamentos de infraestructura.
 
 ### 📌 Proyectos destacados
