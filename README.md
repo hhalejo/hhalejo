@@ -13,14 +13,13 @@ Me gusta entender cómo funcionan las cosas por debajo: diseñar APIs, modelar b
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🧠 En lo que me enfoco ahora
-- Arquitectura de software y principios SOLID
-- Pruebas unitarias
+### 🧠 En lo que me enfoco     
+- Contenedorización y entornos de desarrollo con Docker
 - Diseño de APIs REST y bases de datos relacionales
-- Metodologías ágiles (Scrum)
+- Administración de sistemas Linux y fundamentos de infraestructura.
 
 ### 📌 Proyectos destacados
-- **[Animal Control](https://github.com/tu-usuario/animal-control)**: Sistema de gestión de clínica veterinaria de escritorio construido con **Python + PyQt6 + MySQL**. App multi-rol (Veterinario, Recepcionista, Administrador) con módulos para consultas, historia clínica, inventario, citas y reportes. 
+- **[Animal Control](https://github.com/hhalejo/animal-control)**: Sistema de gestión de clínica veterinaria de escritorio construido con **Python + PyQt6 + MySQL**. App multi-rol (Veterinario, Recepcionista, Administrador) con módulos para consultas, historia clínica, inventario, citas y reportes. 
 
 ### 📫 Contacto
 [LinkedIn](https://www.linkedin.com/in/luis-alejandro-ospina-cifuentes) · [Correo](hhalejo@gmail.com)
